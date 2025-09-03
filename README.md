@@ -1,8 +1,8 @@
 # Unpacker Kitchen for Android (UKA)
 
-## Features:
+## Features 📂:
 ### - Unpacking
-### - Assembling
+### - Repacking
 ### - Converting system/vendor images (.img), patch files {.new.dat){.new.dat.br}
 ### - Mounting raw.images
 ### - Converting split system images into a single image (Qfil firmware),
@@ -11,12 +11,12 @@
 ### - Extracting boot.img file_contexts
 ### - Converting file_contexts.bin using your smartphone!
 
-## How to use
-### Setting up
-#### - Download source code
-#### - Flash zip on Magisk
-### Use
-##### Using the terminal emulator (Example: Termux):
+## How to use 📥
+### Setting up ➜
+ - Download source code
+ - Flash zip on Magisk 
+### 🧩 Use
+- Using a terminal emulator (Example: Termux), Android Shell or ADB Shell:
 #### Run this commands:
 
 ```bash
@@ -24,4 +24,7 @@ su
 menu
 ```
 	
-#### And the main menu will be shown up
+#### The main menu will be shown up
+
+## 🙏 Credits:
+[Josué de Muniz](https://linktr.ee/josuedemuniz)
