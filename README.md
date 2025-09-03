@@ -6,14 +6,14 @@
  - Flash zip on Magisk or KernelSU
 ### 🧩 Use
 - Using a terminal emulator (Example: Termux), Android Shell or ADB Shell:
-#### Run this commands:
+ Run this commands:
 
 ```bash
 su
 menu
 ```
 	
-#### The main menu will be shown up
+ The main menu will be shown up
 
 ## 📂 Features :
 ### - Unpacking
