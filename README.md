@@ -27,4 +27,6 @@ menu
 ### - Converting file_contexts.bin using your smartphone!
 
 ## 🙏 Credits:
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/fa3cf9c9-5a73-44bc-af0b-0edaf9053e2e" />
+
 [Josué de Muniz](https://linktr.ee/josuedemuniz)
