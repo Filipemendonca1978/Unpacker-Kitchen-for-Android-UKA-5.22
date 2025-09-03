@@ -3,7 +3,7 @@
 ## 📥 How to use 
 ### Setting up ➜
  - Download source code
- - Flash zip on Magisk 
+ - Flash zip on Magisk or KernelSU
 ### 🧩 Use
 - Using a terminal emulator (Example: Termux), Android Shell or ADB Shell:
 #### Run this commands:
