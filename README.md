@@ -6,19 +6,19 @@
  - Flash zip on Magisk or KernelSU
 ### 🧩 Use
 - Using a terminal emulator (Example: Termux), Android Shell or ADB Shell:
- Run this commands:
+- Run this commands:
 
 ```bash
 su
 menu
 ```
 	
- The main menu will be shown up
+- The main menu will be shown up
 
 ## 📂 Features :
 ### - Unpacking
 ### - Repacking
-### - Converting system/vendor images (.img), patch files {.new.dat){.new.dat.br}
+### - Converting system/vendor images (.img) and patch files (.new.dat)(.new.dat.br)
 ### - Mounting raw.images
 ### - Converting split system images into a single image (Qfil firmware),
 ### - Payload.bin unpacking 
