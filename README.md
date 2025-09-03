@@ -7,10 +7,10 @@
  and converting file_contexts.bin right on the phone!
 
 ## How to use
-#### Setting up
-- Download source code
-- Flash zip on Magisk
-#### Use
+### Setting up
+#### - Download source code
+#### - Flash zip on Magisk
+### Use
  Using the terminal emulator (Example: Termux):
  Run this commands:
 
