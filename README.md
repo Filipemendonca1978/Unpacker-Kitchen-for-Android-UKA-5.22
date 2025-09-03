@@ -1,16 +1,5 @@
 # Unpacker Kitchen for Android (UKA)
 
-## Features 📂:
-### - Unpacking
-### - Repacking
-### - Converting system/vendor images (.img), patch files {.new.dat){.new.dat.br}
-### - Mounting raw.images
-### - Converting split system images into a single image (Qfil firmware),
-### - Payload.bin unpacking 
-### - Repacking boot/recovery images
-### - Extracting boot.img file_contexts
-### - Converting file_contexts.bin using your smartphone!
-
 ## How to use 📥
 ### Setting up ➜
  - Download source code
@@ -25,6 +14,17 @@ menu
 ```
 	
 #### The main menu will be shown up
+
+## Features 📂:
+### - Unpacking
+### - Repacking
+### - Converting system/vendor images (.img), patch files {.new.dat){.new.dat.br}
+### - Mounting raw.images
+### - Converting split system images into a single image (Qfil firmware),
+### - Payload.bin unpacking 
+### - Repacking boot/recovery images
+### - Extracting boot.img file_contexts
+### - Converting file_contexts.bin using your smartphone!
 
 ## 🙏 Credits:
 [Josué de Muniz](https://linktr.ee/josuedemuniz)
