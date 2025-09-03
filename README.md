@@ -1,6 +1,6 @@
 # Unpacker Kitchen for Android (UKA)
 
-## How to use 📥
+## 📥 How to use 
 ### Setting up ➜
  - Download source code
  - Flash zip on Magisk 
@@ -15,7 +15,7 @@ menu
 	
 #### The main menu will be shown up
 
-## Features 📂:
+## 📂 Features :
 ### - Unpacking
 ### - Repacking
 ### - Converting system/vendor images (.img), patch files {.new.dat){.new.dat.br}
