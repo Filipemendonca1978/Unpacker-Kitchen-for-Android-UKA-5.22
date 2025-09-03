@@ -14,7 +14,9 @@
  Using the terminal emulator (Example: Termux):
  Run this commands:
 
-´´´su
-menu´´´
+´´´bash
+su
+menu
+´´´
 	
 And the main menu will be shown up
